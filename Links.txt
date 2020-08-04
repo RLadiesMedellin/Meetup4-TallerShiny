@@ -1,0 +1,5 @@
+
+# Etiquetas de HTML
+https://shiny.rstudio.com/articles/tag-glossary.html
+https://www.w3schools.com/tags/
+
